@@ -6,9 +6,13 @@
 - 📫 How to reach me venkatchalamsuraj@gmail.com
 
 
+# 🌏 Connect with me:
 
 
-
+- [LinkedIn](https://www.linkedin.com/in/surajvenkatachalam)
+- [Twitter](https://twitter.com/knowmoreytb)
+- [Instagram](https://instagram.com/_suraj_km)
+- [Youtube](https://www.youtube.com/knowmoreytb)
 
 
 <!---
