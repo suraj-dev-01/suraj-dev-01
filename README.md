@@ -1,10 +1,21 @@
 - 👋 Hi, I’m Suraj a Computer Science Engineer Student 😉
-- 👀 I’m interested in Coding, Networking, IOT, PC Hardware ....
-- 🚀 My primary coding language is Python, C..
-- 🌱 I’m currently focusing on Networking, IOT ...
-- 💞️ I’m looking to collaborate on Python, C, JAVA
+- 👀 I’m interested in `Coding, Networking, IOT, PC Hardware` ....
+- 🚀 My primary coding language is `Python, C`..
+- 🌱 I’m currently focusing on `Networking, IOT` ...
+- 💞️ I’m looking to collaborate on `Python, C, JAVA`
 - 📫 How to reach me venkatchalamsuraj@gmail.com
 
+
+# 🌏 Connect with me:
+
+LinkedIn
+Twitter
+Medium
+10fastfingers
+Instagram
+Facebook
+Youtube
+👨‍💻 My Skills:
 
 
 
