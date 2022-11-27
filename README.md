@@ -6,16 +6,7 @@
 - 📫 How to reach me venkatchalamsuraj@gmail.com
 
 
-# 🌏 Connect with me:
 
-LinkedIn
-Twitter
-Medium
-10fastfingers
-Instagram
-Facebook
-Youtube
-👨‍💻 My Skills:
 
 
 
